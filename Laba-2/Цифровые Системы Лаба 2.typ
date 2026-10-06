@@ -1,4 +1,5 @@
 #set page(paper: "a4", margin:(x: 1.5cm, y: 1.5cm))
+#set page(numbering: "- 1 -")
 
 #set par(justify: true)
 #set text(size: 12pt)
